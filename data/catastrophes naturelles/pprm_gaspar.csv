@@ -1,0 +1,776 @@
+cod_nat_pprm;lib_pprm;lib_bassin_risques;num_risque;lib_risque;cod_commune;lib_commune;lib_commentaire;dat_program_deb;dat_program_fin;dat_montage_deb;dat_montage_fin;dat_prescription;dat_deprescription;dat_concertation_deb;dat_concertation_fin;dat_consultation_deb;dat_consultation_fin;dat_mise_a_enquete_deb;dat_mise_a_enquete_fin;dat_approbation;dat_annulation;dat_annexion_plu;dat_modification;dat_proroga;dat_abrog;etat_revision;dat_maj
+03DDT20120001;"";"";254.0;Mouvements de terrains miniers;03027;Bézenet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";256.0;Effondrements localisés;03027;Bézenet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";257.0;Affaissements progressifs;03027;Bézenet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";293.0;Tassements;03027;Bézenet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";254.0;Mouvements de terrains miniers;03104;Doyet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";256.0;Effondrements localisés;03104;Doyet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";257.0;Affaissements progressifs;03104;Doyet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";293.0;Tassements;03104;Doyet;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";254.0;Mouvements de terrains miniers;03189;Montvicq;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";256.0;Effondrements localisés;03189;Montvicq;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";257.0;Affaissements progressifs;03189;Montvicq;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+03DDT20120001;"";"";293.0;Tassements;03189;Montvicq;"";;;;;2012-01-23 00:00:00;;;;;;;;2016-10-03 00:00:00;;;;;;f;2017-11-30 00:00:00
+07DDT20140021;"";"";256.0;Effondrements localisés;07186;Privas;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20140021;"";"";290.0;Ecroulements rocheux;07186;Privas;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20140021;"";"";293.0;Tassements;07186;Privas;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20140021;"";"";256.0;Effondrements localisés;07340;Veyras;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20140021;"";"";290.0;Ecroulements rocheux;07340;Veyras;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20140021;"";"";293.0;Tassements;07340;Veyras;"";;;;;2014-12-12 00:00:00;;;;;;2016-11-09 00:00:00;2016-12-09 00:00:00;2017-05-22 00:00:00;;;;;;f;2017-06-01 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;254.0;Mouvements de terrains miniers;07058;Chassiers;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;259.0;Emissions en surface de gaz de mine;07058;Chassiers;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;254.0;Mouvements de terrains miniers;07132;Largentière;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;259.0;Emissions en surface de gaz de mine;07132;Largentière;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;254.0;Mouvements de terrains miniers;07162;Montréal;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20150008;"";CHASSIERS LARGENTIERE MONTREAL;259.0;Emissions en surface de gaz de mine;07162;Montréal;"";;;;;2015-11-17 00:00:00;;;;;;2018-02-05 00:00:00;2018-03-07 00:00:00;2018-07-10 00:00:00;;;;;;f;2018-07-16 00:00:00
+07DDT20160001;"";"";256.0;Effondrements localisés;07349;La Voulte-sur-Rhône;"";;;;;2015-05-15 00:00:00;;;;2016-01-04 00:00:00;;2016-05-02 00:00:00;;2016-11-24 00:00:00;;;;;;f;2016-12-13 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12013;Aubin;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12013;Aubin;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12016;Auzits;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12016;Auzits;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12083;Cransac;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12083;Cransac;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12089;Decazeville;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12089;Decazeville;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12100;Firmi;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12100;Firmi;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;254.0;Mouvements de terrains miniers;12305;Viviez;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+12DDT20120002;"";bassin de Decazeville;258.0;Inondations de terrain minier;12305;Viviez;"";;;;;2015-12-21 00:00:00;;;;;;;;2017-06-19 00:00:00;;;;;;f;2017-09-12 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14039;Barbery;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-08-25 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14039;Barbery;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-08-25 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14090;Boulon;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-01 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14090;Boulon;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-01 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14100;Bretteville-sur-Laize;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14100;Bretteville-sur-Laize;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14240;Épaney;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14240;Épaney;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14252;Estrées-la-Campagne;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14252;Estrées-la-Campagne;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14276;Fontaine-le-Pin;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14276;Fontaine-le-Pin;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14309;Gouvix;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-12 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14309;Gouvix;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-12 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14310;Grainville-Langannerie;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-09 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14310;Grainville-Langannerie;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-09 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14455;Moulines;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14455;Moulines;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14476;Olendon;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14476;Olendon;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14486;Ouilly-le-Tesson;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14486;Ouilly-le-Tesson;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14497;Perrières;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14497;Perrières;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14546;Rouvres;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14546;Rouvres;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14589;Saint-Germain-le-Vasson;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14589;Saint-Germain-le-Vasson;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14603;Saint-Laurent-de-Condel;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14603;Saint-Laurent-de-Condel;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14669;Sassy;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-06 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14669;Sassy;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-06 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14678;Soumont-Saint-Quentin;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14678;Soumont-Saint-Quentin;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;252.0;Effondrements généralisés;14719;Urville;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-03 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110007;"";Mines de Soumont;256.0;Effondrements localisés;14719;Urville;"";;;;;2005-11-14 00:00:00;;;;;;2008-06-27 00:00:00;2008-06-27 00:00:00;2009-01-06 00:00:00;;2009-07-03 00:00:00;;;;f;2011-12-22 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14266;Feuguerolles-Bully;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14266;Feuguerolles-Bully;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14266;Feuguerolles-Bully;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14277;Fontenay-le-Marmion;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14277;Fontenay-le-Marmion;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14277;Fontenay-le-Marmion;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14294;Garcelles-Secqueville;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14294;Garcelles-Secqueville;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14294;Garcelles-Secqueville;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14396;Maltot;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14396;Maltot;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14396;Maltot;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14408;May-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14408;May-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14408;May-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14538;Rocquancourt;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14538;Rocquancourt;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14538;Rocquancourt;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14554;Saint-Aignan-de-Cramesnil;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14554;Saint-Aignan-de-Cramesnil;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14554;Saint-Aignan-de-Cramesnil;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14556;Saint-André-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14556;Saint-André-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14556;Saint-André-sur-Orne;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;252.0;Effondrements généralisés;14623;Saint-Martin-de-Fontenay;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;254.0;Mouvements de terrains miniers;14623;Saint-Martin-de-Fontenay;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110008;"";Mines de May sur Orne;256.0;Effondrements localisés;14623;Saint-Martin-de-Fontenay;"";;;;;2005-01-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;252.0;Effondrements généralisés;14103;Le Breuil-en-Bessin;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;254.0;Mouvements de terrains miniers;14103;Le Breuil-en-Bessin;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;256.0;Effondrements localisés;14103;Le Breuil-en-Bessin;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;252.0;Effondrements généralisés;14272;La Folie;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;254.0;Mouvements de terrains miniers;14272;La Folie;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;256.0;Effondrements localisés;14272;La Folie;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;252.0;Effondrements généralisés;14370;Le Molay-Littry;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;254.0;Mouvements de terrains miniers;14370;Le Molay-Littry;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;256.0;Effondrements localisés;14370;Le Molay-Littry;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;252.0;Effondrements généralisés;14622;Saint-Martin-de-Blagny;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;254.0;Mouvements de terrains miniers;14622;Saint-Martin-de-Blagny;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;256.0;Effondrements localisés;14622;Saint-Martin-de-Blagny;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;252.0;Effondrements généralisés;14667;Saon;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;254.0;Mouvements de terrains miniers;14667;Saon;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+14DDTM20110009;"";Mines de Littry;256.0;Effondrements localisés;14667;Saon;"";;;;;2009-04-14 00:00:00;;;;;;;;;;;;;;f;2017-08-07 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;256.0;Effondrements localisés;22182;Plélo;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;257.0;Affaissements progressifs;22182;Plélo;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;288.0;Glissements ou mouvements de pente;22182;Plélo;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;256.0;Effondrements localisés;22187;Plérin;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;257.0;Affaissements progressifs;22187;Plérin;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;288.0;Glissements ou mouvements de pente;22187;Plérin;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;256.0;Effondrements localisés;22206;Plouagat;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;257.0;Affaissements progressifs;22206;Plouagat;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;288.0;Glissements ou mouvements de pente;22206;Plouagat;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;256.0;Effondrements localisés;22234;Plouvara;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;257.0;Affaissements progressifs;22234;Plouvara;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;288.0;Glissements ou mouvements de pente;22234;Plouvara;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;256.0;Effondrements localisés;22372;Trémuson;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;257.0;Affaissements progressifs;22372;Trémuson;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+22DDTM20130001;"";Ancienne mine de Trémuson;288.0;Glissements ou mouvements de pente;22372;Trémuson;"";;;2008-08-11 00:00:00;;2008-08-11 00:00:00;;;;;;;;;;;;;;f;2014-03-26 00:00:00
+23DDT20130001;"";"";256.0;Effondrements localisés;23105;Lavaveix-les-Mines;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";259.0;Emissions en surface de gaz de mine;23105;Lavaveix-les-Mines;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";293.0;Tassements;23105;Lavaveix-les-Mines;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";256.0;Effondrements localisés;23138;Moutier-d'Ahun;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";259.0;Emissions en surface de gaz de mine;23138;Moutier-d'Ahun;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";293.0;Tassements;23138;Moutier-d'Ahun;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";256.0;Effondrements localisés;23214;Saint-Martial-le-Mont;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";259.0;Emissions en surface de gaz de mine;23214;Saint-Martial-le-Mont;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";293.0;Tassements;23214;Saint-Martial-le-Mont;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";256.0;Effondrements localisés;23220;Saint-Médard-la-Rochette;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";259.0;Emissions en surface de gaz de mine;23220;Saint-Médard-la-Rochette;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";293.0;Tassements;23220;Saint-Médard-la-Rochette;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";256.0;Effondrements localisés;23229;Saint-Pardoux-les-Cards;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";259.0;Emissions en surface de gaz de mine;23229;Saint-Pardoux-les-Cards;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+23DDT20130001;"";"";293.0;Tassements;23229;Saint-Pardoux-les-Cards;"";;;;;2000-11-14 00:00:00;;;;;;2011-04-11 00:00:00;2011-05-27 00:00:00;2012-05-11 00:00:00;;;;;;f;
+38DDT20180001;"";"";252.0;Effondrements généralisés;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38265;La Motte-d'Aveillans;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38266;La Motte-Saint-Martin;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38269;La Mure;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38280;Notre-Dame-de-Vaulx;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38304;Pierre-Châtel;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38326;Prunières;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38361;Saint-Arey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38462;Saint-Théoffrey;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";252.0;Effondrements généralisés;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";256.0;Effondrements localisés;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";258.0;Inondations de terrain minier;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";259.0;Emissions en surface de gaz de mine;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";288.0;Glissements ou mouvements de pente;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";293.0;Tassements;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180001;"";"";296.0;Échauffement des terrains de dépôts;38499;Susville;Application par anticipation à compter du 29/10/2018;;;;;2007-12-10 00:00:00;;;;;;2018-12-05 00:00:00;2019-01-19 00:00:00;;;;;;;f;2019-02-05 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38076;La Chapelle-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38076;La Chapelle-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38076;La Chapelle-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38162;Faverges-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38162;Faverges-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38162;Faverges-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38357;Saint-André-le-Gaz;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38357;Saint-André-le-Gaz;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38357;Saint-André-le-Gaz;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38377;Saint-Clair-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38377;Saint-Clair-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38377;Saint-Clair-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38381;Saint-Didier-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38381;Saint-Didier-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38381;Saint-Didier-de-la-Tour;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38464;Saint-Victor-de-Cessieu;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38464;Saint-Victor-de-Cessieu;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38464;Saint-Victor-de-Cessieu;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38508;Torchefelon;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38508;Torchefelon;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38508;Torchefelon;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";256.0;Effondrements localisés;38509;La Tour-du-Pin;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";259.0;Emissions en surface de gaz de mine;38509;La Tour-du-Pin;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+38DDT20180002;"";"";293.0;Tassements;38509;La Tour-du-Pin;"";;;;;2012-08-02 00:00:00;;;;;;;;;;;;;;f;2018-03-07 00:00:00
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42032;Cellieu;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42032;Cellieu;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42032;Cellieu;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42032;Cellieu;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42053;Châteauneuf;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42053;Châteauneuf;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42053;Châteauneuf;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42053;Châteauneuf;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42083;Dargoire;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42083;Dargoire;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42083;Dargoire;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42083;Dargoire;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42103;La Grand-Croix;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42103;La Grand-Croix;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42103;La Grand-Croix;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42103;La Grand-Croix;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42110;L'Horme;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42110;L'Horme;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42110;L'Horme;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42110;L'Horme;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42123;Lorette;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42123;Lorette;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42123;Lorette;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42123;Lorette;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42186;Rive-de-Gier;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42186;Rive-de-Gier;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42186;Rive-de-Gier;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42186;Rive-de-Gier;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42207;Saint-Chamond;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42207;Saint-Chamond;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42207;Saint-Chamond;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42207;Saint-Chamond;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42225;Genilac;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42225;Genilac;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42225;Genilac;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42225;Genilac;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42242;Saint-Joseph;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42242;Saint-Joseph;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42242;Saint-Joseph;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42242;Saint-Joseph;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42259;Saint-Martin-la-Plaine;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42259;Saint-Martin-la-Plaine;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42259;Saint-Martin-la-Plaine;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42259;Saint-Martin-la-Plaine;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42271;Saint-Paul-en-Jarez;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42271;Saint-Paul-en-Jarez;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42271;Saint-Paul-en-Jarez;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42271;Saint-Paul-en-Jarez;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;256.0;Effondrements localisés;42307;Tartaras;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;288.0;Glissements ou mouvements de pente;42307;Tartaras;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;293.0;Tassements;42307;Tartaras;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20130002;"";GIER;296.0;Échauffement des terrains de dépôts;42307;Tartaras;"";;;;;2014-10-15 00:00:00;;;;;;;;;;;;;;f;
+42DDT20160001;"";St ETIENNE;256.0;Effondrements localisés;42218;Saint-Étienne;"";;;;;2016-05-03 00:00:00;;;;;;;;2018-02-05 00:00:00;;;;;;f;2018-06-22 00:00:00
+42DDT20160001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42218;Saint-Étienne;"";;;;;2016-05-03 00:00:00;;;;;;;;2018-02-05 00:00:00;;;;;;f;2018-06-22 00:00:00
+42DDT20160001;"";St ETIENNE;293.0;Tassements;42218;Saint-Étienne;"";;;;;2016-05-03 00:00:00;;;;;;;;2018-02-05 00:00:00;;;;;;f;2018-06-22 00:00:00
+42DDT20160001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42218;Saint-Étienne;"";;;;;2016-05-03 00:00:00;;;;;;;;2018-02-05 00:00:00;;;;;;f;2018-06-22 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42044;Le Chambon-Feugerolles;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42044;Le Chambon-Feugerolles;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42044;Le Chambon-Feugerolles;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42044;Le Chambon-Feugerolles;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42095;Firminy;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42095;Firminy;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42095;Firminy;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42095;Firminy;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42099;Fraisses;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42099;Fraisses;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42099;Fraisses;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42099;Fraisses;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42183;La Ricamarie;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42183;La Ricamarie;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42183;La Ricamarie;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42183;La Ricamarie;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42189;Roche-la-Molière;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42189;Roche-la-Molière;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42189;Roche-la-Molière;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42189;Roche-la-Molière;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42218;Saint-Étienne;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42218;Saint-Étienne;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42218;Saint-Étienne;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42218;Saint-Étienne;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42223;Saint-Genest-Lerpt;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42223;Saint-Genest-Lerpt;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42223;Saint-Genest-Lerpt;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42223;Saint-Genest-Lerpt;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42270;Saint-Paul-en-Cornillon;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42270;Saint-Paul-en-Cornillon;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42270;Saint-Paul-en-Cornillon;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42270;Saint-Paul-en-Cornillon;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;256.0;Effondrements localisés;42316;Unieux;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;288.0;Glissements ou mouvements de pente;42316;Unieux;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;293.0;Tassements;42316;Unieux;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20160002;"";ONDAINE;296.0;Échauffement des terrains de dépôts;42316;Unieux;"";;;;;2016-03-15 00:00:00;;;;;;;;;;;;;;f;2017-01-10 00:00:00
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42097;La Fouillouse;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42097;La Fouillouse;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42097;La Fouillouse;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42097;La Fouillouse;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42237;Saint-Jean-Bonnefonds;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42237;Saint-Jean-Bonnefonds;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42237;Saint-Jean-Bonnefonds;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42237;Saint-Jean-Bonnefonds;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42275;Saint-Priest-en-Jarez;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42275;Saint-Priest-en-Jarez;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42275;Saint-Priest-en-Jarez;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42275;Saint-Priest-en-Jarez;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42302;Sorbiers;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42302;Sorbiers;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42302;Sorbiers;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42302;Sorbiers;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42305;La Talaudière;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42305;La Talaudière;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42305;La Talaudière;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42305;La Talaudière;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;256.0;Effondrements localisés;42330;Villars;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;288.0;Glissements ou mouvements de pente;42330;Villars;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;293.0;Tassements;42330;Villars;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+42DDT20170001;"";St ETIENNE;296.0;Échauffement des terrains de dépôts;42330;Villars;"";;;;;2012-04-30 00:00:00;;;;2016-01-14 00:00:00;2016-03-10 00:00:00;2016-03-29 00:00:00;2016-04-29 00:00:00;2016-09-08 00:00:00;;;;;;f;
+43PREF20140008;"";Bassin houiller de Brassac les m;256.0;Effondrements localisés;43185;Sainte-Florine;"";;;;;2014-07-11 00:00:00;;;;;;;;;;;;;;f;2014-11-17 00:00:00
+43PREF20140008;"";Bassin houiller de Brassac les m;288.0;Glissements ou mouvements de pente;43185;Sainte-Florine;"";;;;;2014-07-11 00:00:00;;;;;;;;;;;;;;f;2014-11-17 00:00:00
+43PREF20140008;"";Bassin houiller de Brassac les m;293.0;Tassements;43185;Sainte-Florine;"";;;;;2014-07-11 00:00:00;;;;;;;;;;;;;;f;2014-11-17 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49036;Bouillé-Ménard;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-04-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49036;Bouillé-Ménard;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-04-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49036;Bouillé-Ménard;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-04-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49036;Bouillé-Ménard;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-04-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49077;La Chapelle-sur-Oudon;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49077;La Chapelle-sur-Oudon;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49077;La Chapelle-sur-Oudon;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49077;La Chapelle-sur-Oudon;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49088;Chazé-Henry;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49088;Chazé-Henry;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49088;Chazé-Henry;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49088;Chazé-Henry;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49103;Combrée;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-02-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49103;Combrée;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-02-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49103;Combrée;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-02-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49103;Combrée;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-02-03 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49229;Noyant-la-Gravoyère;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49229;Noyant-la-Gravoyère;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49229;Noyant-la-Gravoyère;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49229;Noyant-la-Gravoyère;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-01 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49233;Nyoiseau;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-20 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49233;Nyoiseau;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-20 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49233;Nyoiseau;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-20 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49233;Nyoiseau;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-20 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49248;Pouancé;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-27 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49248;Pouancé;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-27 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49248;Pouancé;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-27 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49248;Pouancé;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2009-08-27 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";256.0;Effondrements localisés;49331;Segré;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-29 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";257.0;Affaissements progressifs;49331;Segré;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-29 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";288.0;Glissements ou mouvements de pente;49331;Segré;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-29 00:00:00;;;;f;2014-04-25 00:00:00
+49DDT20110001;"";"";293.0;Tassements;49331;Segré;carte communale sur Chazé Henry;;;;;2008-04-22 00:00:00;;;;;;2009-02-13 00:00:00;2009-02-13 00:00:00;2009-06-26 00:00:00;;2010-06-29 00:00:00;;;;f;2014-04-25 00:00:00
+54DDT20140001;"";"";256.0;Effondrements localisés;54136;Conflans-en-Jarnisy;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";257.0;Affaissements progressifs;54136;Conflans-en-Jarnisy;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";293.0;Tassements;54136;Conflans-en-Jarnisy;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";256.0;Effondrements localisés;54227;Giraumont;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";257.0;Affaissements progressifs;54227;Giraumont;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";293.0;Tassements;54227;Giraumont;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";256.0;Effondrements localisés;54253;Hatrize;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";257.0;Affaissements progressifs;54253;Hatrize;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";293.0;Tassements;54253;Hatrize;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";256.0;Effondrements localisés;54273;Jarny;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";257.0;Affaissements progressifs;54273;Jarny;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";293.0;Tassements;54273;Jarny;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";256.0;Effondrements localisés;54286;Labry;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";257.0;Affaissements progressifs;54286;Labry;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140001;"";"";293.0;Tassements;54286;Labry;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-11 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;t;2015-08-25 00:00:00
+54DDT20140006;"";"";256.0;Effondrements localisés;54580;Villerupt;"";;;;;2012-08-03 00:00:00;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;;;2013-03-26 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140006;"";"";257.0;Affaissements progressifs;54580;Villerupt;"";;;;;2012-08-03 00:00:00;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;;;2013-03-26 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140006;"";"";293.0;Tassements;54580;Villerupt;"";;;;;2012-08-03 00:00:00;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;;;2013-03-26 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140007;"";"";256.0;Effondrements localisés;54084;Mont-Bonvillers;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";257.0;Affaissements progressifs;54084;Mont-Bonvillers;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";293.0;Tassements;54084;Mont-Bonvillers;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";256.0;Effondrements localisés;54284;Joudreville;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";257.0;Affaissements progressifs;54284;Joudreville;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";293.0;Tassements;54284;Joudreville;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";256.0;Effondrements localisés;54425;Piennes;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";257.0;Affaissements progressifs;54425;Piennes;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140007;"";"";293.0;Tassements;54425;Piennes;"";;;;;2012-11-26 00:00:00;;;;;;2013-02-08 00:00:00;2013-03-11 00:00:00;2013-08-29 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140010;"";"";256.0;Effondrements localisés;54270;Hussigny-Godbrange;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140010;"";"";257.0;Affaissements progressifs;54270;Hussigny-Godbrange;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140010;"";"";293.0;Tassements;54270;Hussigny-Godbrange;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140010;"";"";256.0;Effondrements localisés;54521;Thil;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140010;"";"";257.0;Affaissements progressifs;54521;Thil;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140010;"";"";293.0;Tassements;54521;Thil;"";;;;;2012-08-03 00:00:00;;;;;;2012-10-10 00:00:00;2012-11-12 00:00:00;2013-03-26 00:00:00;;;;;;f;2015-08-25 00:00:00
+54DDT20140012;"";"";256.0;Effondrements localisés;54491;Sancy;Révision du PPRM Secteur de Trieux approuvé par AP du 08/01/2010 Application immédiate du 26/03/2013;;;;;2012-08-03 00:00:00;;;;;;;;2015-11-30 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140012;"";"";257.0;Affaissements progressifs;54491;Sancy;Révision du PPRM Secteur de Trieux approuvé par AP du 08/01/2010 Application immédiate du 26/03/2013;;;;;2012-08-03 00:00:00;;;;;;;;2015-11-30 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140012;"";"";293.0;Tassements;54491;Sancy;Révision du PPRM Secteur de Trieux approuvé par AP du 08/01/2010 Application immédiate du 26/03/2013;;;;;2012-08-03 00:00:00;;;;;;;;2015-11-30 00:00:00;;;;;;t;2016-09-23 00:00:00
+54DDT20140013;"";"";256.0;Effondrements localisés;54015;Anderny;Modification du PPRM secteur de Trieuc approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-01 00:00:00;2013-03-27 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-03-17 00:00:00
+54DDT20140013;"";"";257.0;Affaissements progressifs;54015;Anderny;Modification du PPRM secteur de Trieuc approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-01 00:00:00;2013-03-27 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-03-17 00:00:00
+54DDT20140013;"";"";293.0;Tassements;54015;Anderny;Modification du PPRM secteur de Trieuc approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-01 00:00:00;2013-03-27 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-03-17 00:00:00
+54DDT20140014;"";"";256.0;Effondrements localisés;54066;Bettainvillers;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-18 00:00:00;2013-03-18 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140014;"";"";257.0;Affaissements progressifs;54066;Bettainvillers;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-18 00:00:00;2013-03-18 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140014;"";"";293.0;Tassements;54066;Bettainvillers;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-18 00:00:00;2013-03-18 00:00:00;2013-07-12 00:00:00;;;;;;f;2014-06-10 00:00:00
+54DDT20140015;"";"";256.0;Effondrements localisés;54334;Mairy-Mainville;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-11 00:00:00;2013-03-14 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140015;"";"";257.0;Affaissements progressifs;54334;Mairy-Mainville;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-11 00:00:00;2013-03-14 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140015;"";"";293.0;Tassements;54334;Mairy-Mainville;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-11 00:00:00;2013-03-14 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140016;"";"";256.0;Effondrements localisés;54342;Mancieulles;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-05 00:00:00;2013-03-08 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140016;"";"";257.0;Affaissements progressifs;54342;Mancieulles;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-05 00:00:00;2013-03-08 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140016;"";"";293.0;Tassements;54342;Mancieulles;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-05 00:00:00;2013-03-08 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140017;"";"";256.0;Effondrements localisés;54533;Trieux;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-10 00:00:00;2013-03-11 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140017;"";"";257.0;Affaissements progressifs;54533;Trieux;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-10 00:00:00;2013-03-11 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140017;"";"";293.0;Tassements;54533;Trieux;Modification du PPRM secteur de Trieux approuvé par AP du 08/01/2010;;;;;2012-11-26 00:00:00;;;;;;2013-02-10 00:00:00;2013-03-11 00:00:00;2013-07-12 00:00:00;;;;;;f;
+54DDT20140031;"";"";256.0;Effondrements localisés;54028;Auboué;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54028;Auboué;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54028;Auboué;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54099;Briey;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54099;Briey;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54099;Briey;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54263;Homécourt;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54263;Homécourt;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54263;Homécourt;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54280;Joeuf;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54280;Joeuf;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54280;Joeuf;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54371;Moineville;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54371;Moineville;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54371;Moineville;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54391;Moutiers;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54391;Moutiers;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54391;Moutiers;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";256.0;Effondrements localisés;54542;Valleroy;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";257.0;Affaissements progressifs;54542;Valleroy;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140031;"";"";293.0;Tassements;54542;Valleroy;"";;;;;2003-07-31 00:00:00;;;;;;;;2009-11-24 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140032;"";"";256.0;Effondrements localisés;54536;Tucquegnieux;"";;;;;2004-11-19 00:00:00;;;;;;;;2010-01-08 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140032;"";"";257.0;Affaissements progressifs;54536;Tucquegnieux;"";;;;;2004-11-19 00:00:00;;;;;;;;2010-01-08 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140032;"";"";293.0;Tassements;54536;Tucquegnieux;"";;;;;2004-11-19 00:00:00;;;;;;;;2010-01-08 00:00:00;;;;;;f;2017-04-27 00:00:00
+54DDT20140033;"";"";256.0;Effondrements localisés;54096;Bréhain-la-Ville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";257.0;Affaissements progressifs;54096;Bréhain-la-Ville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";293.0;Tassements;54096;Bréhain-la-Ville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";256.0;Effondrements localisés;54149;Crusnes;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";257.0;Affaissements progressifs;54149;Crusnes;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";293.0;Tassements;54149;Crusnes;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";256.0;Effondrements localisés;54181;Errouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";257.0;Affaissements progressifs;54181;Errouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";293.0;Tassements;54181;Errouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";256.0;Effondrements localisés;54504;Serrouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";257.0;Affaissements progressifs;54504;Serrouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";293.0;Tassements;54504;Serrouville;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";256.0;Effondrements localisés;54525;Tiercelet;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";257.0;Affaissements progressifs;54525;Tiercelet;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140033;"";"";293.0;Tassements;54525;Tiercelet;"";;;;;2006-02-02 00:00:00;;;;;;;;2009-12-15 00:00:00;;;;;;f;2014-10-14 00:00:00
+54DDT20140034;"";"";256.0;Effondrements localisés;54084;Mont-Bonvillers;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";257.0;Affaissements progressifs;54084;Mont-Bonvillers;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";293.0;Tassements;54084;Mont-Bonvillers;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";256.0;Effondrements localisés;54295;Landres;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";257.0;Affaissements progressifs;54295;Landres;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";293.0;Tassements;54295;Landres;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";256.0;Effondrements localisés;54425;Piennes;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";257.0;Affaissements progressifs;54425;Piennes;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140034;"";"";293.0;Tassements;54425;Piennes;"";;;;;2003-07-31 00:00:00;;;;;;;;2010-04-20 00:00:00;;;;;;f;
+54DDT20140036;"";"";256.0;Effondrements localisés;54169;Domprix;"";;;;;2008-01-24 00:00:00;;;;;;;;2011-09-16 00:00:00;;;;;;f;
+54DDT20140036;"";"";257.0;Affaissements progressifs;54169;Domprix;"";;;;;2008-01-24 00:00:00;;;;;;;;2011-09-16 00:00:00;;;;;;f;
+54DDT20140036;"";"";293.0;Tassements;54169;Domprix;"";;;;;2008-01-24 00:00:00;;;;;;;;2011-09-16 00:00:00;;;;;;f;
+54DDT20140037;"";"";256.0;Effondrements localisés;54568;Ville-au-Montois;"";;;;;2008-01-24 00:00:00;;;;;;2011-11-03 00:00:00;2011-12-03 00:00:00;2012-02-28 00:00:00;;;;;;f;
+54DDT20140037;"";"";257.0;Affaissements progressifs;54568;Ville-au-Montois;"";;;;;2008-01-24 00:00:00;;;;;;2011-11-03 00:00:00;2011-12-03 00:00:00;2012-02-28 00:00:00;;;;;;f;
+54DDT20140037;"";"";293.0;Tassements;54568;Ville-au-Montois;"";;;;;2008-01-24 00:00:00;;;;;;2011-11-03 00:00:00;2011-12-03 00:00:00;2012-02-28 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54138;Cosnes-et-Romain;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54138;Cosnes-et-Romain;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54138;Cosnes-et-Romain;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54254;Haucourt-Moulaine;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54254;Haucourt-Moulaine;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54254;Haucourt-Moulaine;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54261;Herserange;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54261;Herserange;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54261;Herserange;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54314;Lexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54314;Lexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54314;Lexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54321;Longlaville;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54321;Longlaville;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54321;Longlaville;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54323;Longwy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54323;Longwy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54323;Longwy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54367;Mexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54367;Mexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54367;Mexy;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54382;Mont-Saint-Martin;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54382;Mont-Saint-Martin;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54382;Mont-Saint-Martin;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54451;Réhon;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54451;Réhon;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54451;Réhon;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";256.0;Effondrements localisés;54493;Saulnes;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";257.0;Affaissements progressifs;54493;Saulnes;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140038;"";"";293.0;Tassements;54493;Saulnes;"";;;;;2008-01-10 00:00:00;;;;;;;;2012-01-24 00:00:00;;;;;;f;
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54028;Auboué;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54028;Auboué;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54028;Auboué;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54099;Briey;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54099;Briey;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54099;Briey;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54263;Homécourt;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54263;Homécourt;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54263;Homécourt;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54280;Joeuf;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54280;Joeuf;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54280;Joeuf;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54371;Moineville;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54371;Moineville;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54371;Moineville;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54391;Moutiers;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54391;Moutiers;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54391;Moutiers;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;256.0;Effondrements localisés;54542;Valleroy;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;257.0;Affaissements progressifs;54542;Valleroy;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140041;"";Miniers;293.0;Tassements;54542;Valleroy;"";;;;;2014-03-12 00:00:00;;;;;;;;2016-08-23 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;256.0;Effondrements localisés;54096;Bréhain-la-Ville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;257.0;Affaissements progressifs;54096;Bréhain-la-Ville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;293.0;Tassements;54096;Bréhain-la-Ville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;256.0;Effondrements localisés;54181;Errouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;257.0;Affaissements progressifs;54181;Errouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;293.0;Tassements;54181;Errouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;256.0;Effondrements localisés;54504;Serrouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;257.0;Affaissements progressifs;54504;Serrouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;293.0;Tassements;54504;Serrouville;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;256.0;Effondrements localisés;54525;Tiercelet;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;257.0;Affaissements progressifs;54525;Tiercelet;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+54DDT20140045;"";Miniers;293.0;Tassements;54525;Tiercelet;"";;;;;2014-08-07 00:00:00;;;;;;;;2015-05-21 00:00:00;;;;;;t;2017-04-27 00:00:00
+55DDT20130002;"";Bassin Ferrifère;256.0;Effondrements localisés;55063;Bouligny;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;257.0;Affaissements progressifs;55063;Bouligny;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;288.0;Glissements ou mouvements de pente;55063;Bouligny;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;256.0;Effondrements localisés;55158;Dommary-Baroncourt;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;257.0;Affaissements progressifs;55158;Dommary-Baroncourt;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;288.0;Glissements ou mouvements de pente;55158;Dommary-Baroncourt;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;256.0;Effondrements localisés;55182;Éton;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;257.0;Affaissements progressifs;55182;Éton;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+55DDT20130002;"";Bassin Ferrifère;288.0;Glissements ou mouvements de pente;55182;Éton;"";;;;;2006-05-09 00:00:00;;;;;;2009-03-04 00:00:00;2009-04-04 00:00:00;2009-12-22 00:00:00;;;;;;f;2014-03-17 00:00:00
+57DDT20140003;"";Bassin férrifère Nord lorrain;257.0;Affaissements progressifs;57306;Hayange;"";;;;;2005-02-04 00:00:00;;;;;;2010-09-07 00:00:00;2010-10-08 00:00:00;2011-01-21 00:00:00;;;;;;f;
+57DDT20140003;"";Bassin férrifère Nord lorrain;293.0;Tassements;57306;Hayange;"";;;;;2005-02-04 00:00:00;;;;;;2010-09-07 00:00:00;2010-10-08 00:00:00;2011-01-21 00:00:00;;;;;;f;
+57DDT20140004;"";"";256.0;Effondrements localisés;57306;Hayange;"";;;;;2014-02-14 00:00:00;;;;;;;;2014-09-04 00:00:00;;;;;;f;2014-11-05 00:00:00
+57DDT20140004;"";"";257.0;Affaissements progressifs;57306;Hayange;"";;;;;2014-02-14 00:00:00;;;;;;;;2014-09-04 00:00:00;;;;;;f;2014-11-05 00:00:00
+57DDT20140004;"";"";293.0;Tassements;57306;Hayange;"";;;;;2014-02-14 00:00:00;;;;;;;;2014-09-04 00:00:00;;;;;;f;2014-11-05 00:00:00
+57DDT20140008;"";Bassin ferrifère centre;252.0;Effondrements généralisés;57491;Moyeuvre-Grande;Procédure de révision du PPRm approuvé en juin 2010;;;;;2014-05-26 00:00:00;;;;;;;;2016-07-08 00:00:00;;;;;;f;2016-08-09 00:00:00
+57DDT20140008;"";Bassin ferrifère centre;256.0;Effondrements localisés;57491;Moyeuvre-Grande;Procédure de révision du PPRm approuvé en juin 2010;;;;;2014-05-26 00:00:00;;;;;;;;2016-07-08 00:00:00;;;;;;f;2016-08-09 00:00:00
+57DDT20140008;"";Bassin ferrifère centre;257.0;Affaissements progressifs;57491;Moyeuvre-Grande;Procédure de révision du PPRm approuvé en juin 2010;;;;;2014-05-26 00:00:00;;;;;;;;2016-07-08 00:00:00;;;;;;f;2016-08-09 00:00:00
+57DDT20140008;"";Bassin ferrifère centre;293.0;Tassements;57491;Moyeuvre-Grande;Procédure de révision du PPRm approuvé en juin 2010;;;;;2014-05-26 00:00:00;;;;;;;;2016-07-08 00:00:00;;;;;;f;2016-08-09 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;252.0;Effondrements généralisés;57481;Montois-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;256.0;Effondrements localisés;57481;Montois-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;257.0;Affaissements progressifs;57481;Montois-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;293.0;Tassements;57481;Montois-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;252.0;Effondrements généralisés;57593;Roncourt;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;256.0;Effondrements localisés;57593;Roncourt;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;257.0;Affaissements progressifs;57593;Roncourt;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;293.0;Tassements;57593;Roncourt;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;252.0;Effondrements généralisés;57620;Sainte-Marie-aux-Chênes;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;256.0;Effondrements localisés;57620;Sainte-Marie-aux-Chênes;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;257.0;Affaissements progressifs;57620;Sainte-Marie-aux-Chênes;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;293.0;Tassements;57620;Sainte-Marie-aux-Chênes;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;252.0;Effondrements généralisés;57622;Saint-Privat-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;256.0;Effondrements localisés;57622;Saint-Privat-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;257.0;Affaissements progressifs;57622;Saint-Privat-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20140009;"";Bassin ferrifère sud;293.0;Tassements;57622;Saint-Privat-la-Montagne;2ème révision du PPRm des communes de Montois-la-Montagne, Roncourt, Saint-Privat-la-Montagne et Sainte-Marie-aux-Chênes;;;;;2014-07-29 00:00:00;;;;;;;;2016-03-08 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150001;"";Belval;256.0;Effondrements localisés;57038;Audun-le-Tiche;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;257.0;Affaissements progressifs;57038;Audun-le-Tiche;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;293.0;Tassements;57038;Audun-le-Tiche;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;256.0;Effondrements localisés;57565;Rédange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;257.0;Affaissements progressifs;57565;Rédange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;293.0;Tassements;57565;Rédange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;256.0;Effondrements localisés;57603;Russange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;257.0;Affaissements progressifs;57603;Russange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150001;"";Belval;293.0;Tassements;57603;Russange;"";;;;;2015-04-17 00:00:00;;;;;;;;2016-09-29 00:00:00;;;;;;f;2016-11-23 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;256.0;Effondrements localisés;57368;Knutange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;257.0;Affaissements progressifs;57368;Knutange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;293.0;Tassements;57368;Knutange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;256.0;Effondrements localisés;57498;Neufchef;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;257.0;Affaissements progressifs;57498;Neufchef;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;293.0;Tassements;57498;Neufchef;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;256.0;Effondrements localisés;57508;Nilvange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;257.0;Affaissements progressifs;57508;Nilvange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;293.0;Tassements;57508;Nilvange;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;256.0;Effondrements localisés;57562;Ranguevaux;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;257.0;Affaissements progressifs;57562;Ranguevaux;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150002;"";Bassin ferrifère Fensch;293.0;Tassements;57562;Ranguevaux;Révision du PPRm approuvé en 2013;;;;;2015-08-06 00:00:00;;;;;;;;2017-01-26 00:00:00;;;;;;f;2017-09-20 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;256.0;Effondrements localisés;57019;Amnéville;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;257.0;Affaissements progressifs;57019;Amnéville;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;293.0;Tassements;57019;Amnéville;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;256.0;Effondrements localisés;57143;Clouange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;257.0;Affaissements progressifs;57143;Clouange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;293.0;Tassements;57143;Clouange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;256.0;Effondrements localisés;57591;Rombas;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;257.0;Affaissements progressifs;57591;Rombas;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;293.0;Tassements;57591;Rombas;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;256.0;Effondrements localisés;57597;Rosselange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;257.0;Affaissements progressifs;57597;Rosselange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+57DDT20150003;"";Bassin ferrifère Orne;293.0;Tassements;57597;Rosselange;Modification du PPRm approuvé en 2014;;;;;2015-08-24 00:00:00;;;;;;;;2016-04-04 00:00:00;;;;;;f;2016-06-08 00:00:00
+59DDTM20140003;"";"";256.0;Effondrements localisés;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";257.0;Affaissements progressifs;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";259.0;Emissions en surface de gaz de mine;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";288.0;Glissements ou mouvements de pente;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";293.0;Tassements;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";296.0;Échauffement des terrains de dépôts;59153;Condé-sur-l'Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";256.0;Effondrements localisés;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";257.0;Affaissements progressifs;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";259.0;Emissions en surface de gaz de mine;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";288.0;Glissements ou mouvements de pente;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";293.0;Tassements;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";296.0;Échauffement des terrains de dépôts;59253;Fresnes-sur-Escaut;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";256.0;Effondrements localisés;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";257.0;Affaissements progressifs;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";259.0;Emissions en surface de gaz de mine;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";288.0;Glissements ou mouvements de pente;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";293.0;Tassements;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";296.0;Échauffement des terrains de dépôts;59301;Hergnies;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";256.0;Effondrements localisés;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";257.0;Affaissements progressifs;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";259.0;Emissions en surface de gaz de mine;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";288.0;Glissements ou mouvements de pente;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";293.0;Tassements;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140003;"";"";296.0;Échauffement des terrains de dépôts;59616;Vieux-Condé;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";256.0;Effondrements localisés;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";257.0;Affaissements progressifs;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";259.0;Emissions en surface de gaz de mine;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";288.0;Glissements ou mouvements de pente;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";293.0;Tassements;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";296.0;Échauffement des terrains de dépôts;59172;Denain;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";256.0;Effondrements localisés;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";257.0;Affaissements progressifs;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";259.0;Emissions en surface de gaz de mine;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";288.0;Glissements ou mouvements de pente;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";293.0;Tassements;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";296.0;Échauffement des terrains de dépôts;59292;Haveluy;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";256.0;Effondrements localisés;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";257.0;Affaissements progressifs;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";259.0;Emissions en surface de gaz de mine;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";288.0;Glissements ou mouvements de pente;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";293.0;Tassements;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140004;"";"";296.0;Échauffement des terrains de dépôts;59361;Lourches;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";256.0;Effondrements localisés;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";257.0;Affaissements progressifs;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";259.0;Emissions en surface de gaz de mine;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";288.0;Glissements ou mouvements de pente;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";293.0;Tassements;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";296.0;Échauffement des terrains de dépôts;59014;Anzin;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";256.0;Effondrements localisés;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";257.0;Affaissements progressifs;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";259.0;Emissions en surface de gaz de mine;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";288.0;Glissements ou mouvements de pente;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";293.0;Tassements;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";296.0;Échauffement des terrains de dépôts;59564;La Sentinelle;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";256.0;Effondrements localisés;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";257.0;Affaissements progressifs;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";259.0;Emissions en surface de gaz de mine;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";288.0;Glissements ou mouvements de pente;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";293.0;Tassements;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+59DDTM20140005;"";"";296.0;Échauffement des terrains de dépôts;59606;Valenciennes;"";;;;;2014-11-17 00:00:00;;;;;;;;2018-07-06 00:00:00;;;;;;f;2018-09-19 00:00:00
+61DDT20120014;"";"";256.0;Effondrements localisés;61024;Banvou;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";257.0;Affaissements progressifs;61024;Banvou;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";288.0;Glissements ou mouvements de pente;61024;Banvou;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";293.0;Tassements;61024;Banvou;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";256.0;Effondrements localisés;61124;La Coulonche;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";257.0;Affaissements progressifs;61124;La Coulonche;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";288.0;Glissements ou mouvements de pente;61124;La Coulonche;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";293.0;Tassements;61124;La Coulonche;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";256.0;Effondrements localisés;61163;La Ferrière-aux-Étangs;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";257.0;Affaissements progressifs;61163;La Ferrière-aux-Étangs;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";288.0;Glissements ou mouvements de pente;61163;La Ferrière-aux-Étangs;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+61DDT20120014;"";"";293.0;Tassements;61163;La Ferrière-aux-Étangs;1ère modification approuvée le 19 octobre 2012;;;;;2007-09-17 00:00:00;;;;;;2010-12-09 00:00:00;2011-01-13 00:00:00;2011-08-01 00:00:00;;2011-09-28 00:00:00;;;;f;2012-11-27 00:00:00
+62DDTM20150001;"";Béthunois;256.0;Effondrements localisés;62048;Auchel;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;257.0;Affaissements progressifs;62048;Auchel;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;259.0;Emissions en surface de gaz de mine;62048;Auchel;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;288.0;Glissements ou mouvements de pente;62048;Auchel;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;293.0;Tassements;62048;Auchel;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;256.0;Effondrements localisés;62178;Bruay-la-Buissière;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;257.0;Affaissements progressifs;62178;Bruay-la-Buissière;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;259.0;Emissions en surface de gaz de mine;62178;Bruay-la-Buissière;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;288.0;Glissements ou mouvements de pente;62178;Bruay-la-Buissière;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;293.0;Tassements;62178;Bruay-la-Buissière;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;256.0;Effondrements localisés;62270;Divion;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;257.0;Affaissements progressifs;62270;Divion;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;259.0;Emissions en surface de gaz de mine;62270;Divion;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;288.0;Glissements ou mouvements de pente;62270;Divion;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;293.0;Tassements;62270;Divion;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;256.0;Effondrements localisés;62617;Noeux-les-Mines;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;257.0;Affaissements progressifs;62617;Noeux-les-Mines;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;259.0;Emissions en surface de gaz de mine;62617;Noeux-les-Mines;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;288.0;Glissements ou mouvements de pente;62617;Noeux-les-Mines;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150001;"";Béthunois;293.0;Tassements;62617;Noeux-les-Mines;+ aléa échauffement de dépôts de matériaux.;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;256.0;Effondrements localisés;62427;Hénin-Beaumont;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;259.0;Emissions en surface de gaz de mine;62427;Hénin-Beaumont;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;288.0;Glissements ou mouvements de pente;62427;Hénin-Beaumont;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;293.0;Tassements;62427;Hénin-Beaumont;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;256.0;Effondrements localisés;62510;Liévin;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;259.0;Emissions en surface de gaz de mine;62510;Liévin;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;288.0;Glissements ou mouvements de pente;62510;Liévin;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;293.0;Tassements;62510;Liévin;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;256.0;Effondrements localisés;62528;Loos-en-Gohelle;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;259.0;Emissions en surface de gaz de mine;62528;Loos-en-Gohelle;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;288.0;Glissements ou mouvements de pente;62528;Loos-en-Gohelle;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+62DDTM20150002;"";Lensois;293.0;Tassements;62528;Loos-en-Gohelle;+ aléa échauffement de dépôts de matériaux;;;;;2015-06-10 00:00:00;;;;;;;;;;;;;;f;2015-06-29 00:00:00
+63DDT20140005;"";de Brassac les Mines;256.0;Effondrements localisés;63022;Auzat-la-Combelle;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;288.0;Glissements ou mouvements de pente;63022;Auzat-la-Combelle;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;293.0;Tassements;63022;Auzat-la-Combelle;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;296.0;Échauffement des terrains de dépôts;63022;Auzat-la-Combelle;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;256.0;Effondrements localisés;63050;Brassac-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;288.0;Glissements ou mouvements de pente;63050;Brassac-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;293.0;Tassements;63050;Brassac-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;296.0;Échauffement des terrains de dépôts;63050;Brassac-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;256.0;Effondrements localisés;63091;Charbonnier-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;288.0;Glissements ou mouvements de pente;63091;Charbonnier-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;293.0;Tassements;63091;Charbonnier-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+63DDT20140005;"";de Brassac les Mines;296.0;Échauffement des terrains de dépôts;63091;Charbonnier-les-Mines;"";;;;;2014-07-16 00:00:00;;;;;;;;2017-09-11 00:00:00;;;;;;f;2017-10-19 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;256.0;Effondrements localisés;69014;Aveize;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;259.0;Emissions en surface de gaz de mine;69014;Aveize;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;288.0;Glissements ou mouvements de pente;69014;Aveize;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;290.0;Ecroulements rocheux;69014;Aveize;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;293.0;Tassements;69014;Aveize;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;256.0;Effondrements localisés;69178;Souzy;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;259.0;Emissions en surface de gaz de mine;69178;Souzy;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;288.0;Glissements ou mouvements de pente;69178;Souzy;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;290.0;Ecroulements rocheux;69178;Souzy;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;293.0;Tassements;69178;Souzy;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;256.0;Effondrements localisés;69201;Sainte-Foy-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;259.0;Emissions en surface de gaz de mine;69201;Sainte-Foy-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;288.0;Glissements ou mouvements de pente;69201;Sainte-Foy-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;290.0;Ecroulements rocheux;69201;Sainte-Foy-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;293.0;Tassements;69201;Sainte-Foy-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;256.0;Effondrements localisés;69203;Saint-Genis-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;259.0;Emissions en surface de gaz de mine;69203;Saint-Genis-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;288.0;Glissements ou mouvements de pente;69203;Saint-Genis-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;290.0;Ecroulements rocheux;69203;Saint-Genis-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+69DDT20140001;"";Sainte Foy l'Argentière;293.0;Tassements;69203;Saint-Genis-l'Argentière;"";;;;;2013-11-08 00:00:00;;;;;;2016-04-25 00:00:00;2016-05-27 00:00:00;2017-01-06 00:00:00;;;;;;f;2017-04-04 00:00:00
+73PREF20160033;"";"";254.0;Mouvements de terrains miniers;73288;Sonnaz;"";;;;;2010-06-23 00:00:00;;;;;;;;2013-11-15 00:00:00;;;;;;f;
+73PREF20160033;"";"";256.0;Effondrements localisés;73288;Sonnaz;"";;;;;2010-06-23 00:00:00;;;;;;;;2013-11-15 00:00:00;;;;;;f;
+73PREF20160033;"";"";254.0;Mouvements de terrains miniers;73329;Voglans;"";;;;;2010-06-23 00:00:00;;;;;;;;2013-11-15 00:00:00;;;;;;f;
+73PREF20160033;"";"";256.0;Effondrements localisés;73329;Voglans;"";;;;;2010-06-23 00:00:00;;;;;;;;2013-11-15 00:00:00;;;;;;f;
+73PREF20160034;"";"";252.0;Effondrements généralisés;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";254.0;Mouvements de terrains miniers;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";257.0;Affaissements progressifs;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";288.0;Glissements ou mouvements de pente;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";293.0;Tassements;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";296.0;Échauffement des terrains de dépôts;73006;Aime;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";252.0;Effondrements généralisés;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";254.0;Mouvements de terrains miniers;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";257.0;Affaissements progressifs;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";288.0;Glissements ou mouvements de pente;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";293.0;Tassements;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160034;"";"";296.0;Échauffement des terrains de dépôts;73150;Mâcot-la-Plagne;"";;;;;2012-12-28 00:00:00;;;;;;;;2014-12-18 00:00:00;;;;;;f;
+73PREF20160035;"";"";254.0;Mouvements de terrains miniers;73077;Les Chapelles;"";;;;;2012-12-28 00:00:00;;;;;;;;2015-10-20 00:00:00;;;;;;f;
+73PREF20160035;"";"";256.0;Effondrements localisés;73077;Les Chapelles;"";;;;;2012-12-28 00:00:00;;;;;;;;2015-10-20 00:00:00;;;;;;f;
+73PREF20160035;"";"";288.0;Glissements ou mouvements de pente;73077;Les Chapelles;"";;;;;2012-12-28 00:00:00;;;;;;;;2015-10-20 00:00:00;;;;;;f;
+73PREF20160036;"";"";254.0;Mouvements de terrains miniers;73198;La Perrière;"";;;;;2015-02-13 00:00:00;;;;;;;;;;;;;;f;
+74DDT20150010;"";"";256.0;Effondrements localisés;74152;Lovagny;"";;;;;2015-05-06 00:00:00;;;;;;;;;;;;;;f;
