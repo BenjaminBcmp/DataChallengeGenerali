@@ -1,0 +1,2 @@
+y_pred_MODEL_full : prédictions du modèle entrainé par gridsearch sur l'entiereté de X_train
+y_pred_full_average : moyenne pondérée des prédictions des modèles XGB, LGBM et RFC
